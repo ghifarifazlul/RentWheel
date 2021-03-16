@@ -1,0 +1,13 @@
+body{
+  font-family: 'Karla';
+}
+
+h4{
+  text-align: center;
+  margin-top:40px;
+}
+
+.btn{
+  padding: 10px 20px;
+  font-weight: 500;
+}
